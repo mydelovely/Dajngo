@@ -5,7 +5,7 @@
       <paths name="root@211.159.152.216:22">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/pycharm_project_633" local="$PROJECT_DIR$" />
+            <mapping deploy="/root/Django_project/YiBan" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
